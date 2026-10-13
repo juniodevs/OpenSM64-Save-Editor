@@ -105,6 +105,7 @@ export interface Translations {
   coinRecordsDesc: string;
 
   errorLoad: string;
+  footerSourceCode: string;
 }
 
 export const translations: Record<Language, Translations> = {
@@ -212,7 +213,8 @@ export const translations: Record<Language, Translations> = {
     coinRecordsTitle: "COIN RECORDS (TIE-BREAKERS)",
     coinRecordsDesc: "Values from 0 to 3 used by the game to break ties between files on the high score screen.",
 
-    errorLoad: "Failed to open save file:"
+    errorLoad: "Failed to open save file:",
+    footerSourceCode: "Source Code on GitHub"
   },
 
   pt: {
@@ -319,6 +321,7 @@ export const translations: Record<Language, Translations> = {
     coinRecordsTitle: "RECORDES DE MOEDAS (TIE-BREAKERS)",
     coinRecordsDesc: "Valores de 0 a 3 usados pelo jogo para desempatar pontuações iguais de moedas entre os arquivos.",
 
-    errorLoad: "Erro ao abrir arquivo:"
+    errorLoad: "Erro ao abrir arquivo:",
+    footerSourceCode: "Código-Fonte no GitHub"
   }
 };

@@ -2,6 +2,8 @@
 
 [Versão em Português](README_PT.md)
 
+**Live Demo:** [https://opensm64.vercel.app/](https://opensm64.vercel.app/)
+
 A web-based save file editor for Super Mario 64, supporting both Nintendo 64 emulator saves and PC Port releases.
 
 Edit stars, cannons, castle doors, caps, coin records, and sound settings directly in the browser.
